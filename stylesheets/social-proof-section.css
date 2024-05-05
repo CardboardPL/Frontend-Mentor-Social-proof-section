@@ -153,17 +153,19 @@
   border-radius: 50%;
 }
 
-.testifier-name {
+.testifier-name,
+.testifier-status {
   font-size: 1.066666666666667rem;
+  height: 19.2px;
 }
 
 .testifier-status {
-  font-size: 1.066666666666667rem;
   color: var(--soft-pink);
 }
 
 .testimonial-content {
-  font-size: 1.1rem;
+  font-size: 1.09rem;
+  font-weight: 500;
   line-height: 1.325;
 }
 
